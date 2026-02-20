@@ -1,28 +1,30 @@
-<!-- ████████████████████████████████████████████████████████████████████████
-     ██   YASHWANT KUMAR CHITCHULA  —  GITHUB PROFILE README               ██
-     ██   Theme: Neural Network / Terminal Boot / Sci-Fi                   ██
-     ████████████████████████████████████████████████████████████████████████ -->
+<!-- ████████████████████████████████████████████████████████████████████████████████
+     ██                                                                          ██
+     ██   Y A S H W A N T   K U M A R   C H I T C H U L A                       ██
+     ██   CODENAME: chyk2468                                                     ██
+     ██   CLEARANCE: ULTRA                                                       ██
+     ██   STATUS: ONLINE                                                         ██
+     ██                                                                          ██
+     ████████████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- ANIMATED TYPING — TERMINAL STYLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=%24+whoami+--verbose;%3E+Yashwant+Kumar;%24+cat+%2Fetc%2Fidentity;%3E+AI+%7C+ML+%7C+Engineer;%24+echo+%24PASSION;%3E+Breaking+AI+to+make+it+safer+%F0%9F%94%90;%24+./initialize_neural_net.sh;%3E+%5BOK%5D+All+systems+nominal+%F0%9F%9F%A2" alt="Typing SVG" />
+<!-- ═══════════════════ CINEMATIC HEADER ═══════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0a0010,30:120028,50:1a0040,70:120028,85:0a0010,100:000000&height=220&section=header&text=YASHWANT%20KUMAR&fontSize=42&fontColor=00ff41&fontAlignY=35&desc=⟨%20AI%20Engineer%20•%20ML%20Researcher%20•%20Code%20Architect%20⟩&descSize=16&descColor=7f00ff&descAlignY=55&animation=twinkling" width="100%"/>
+
+<!-- ANIMATED TERMINAL TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%24+sudo+access+--grant+NEURAL_NETWORK;%3E+Access+granted.+Welcome%2C+Yashwant.+%F0%9F%94%93;%24+cat+%2Fvar%2Flog%2Fpassion.txt;%3E+AI+%E2%80%A2+Security+%E2%80%A2+Innovation+%E2%80%A2+Breaking+Boundaries+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ███╗  ██╗████████╗      ║
-║    ╚██╗██╔╝██╔══██╗██╔════╝██║  ██║██║    ██║██╔══██╗████╗ ██║╚══██╔══╝      ║
-║     ╚███╔╝ ███████║███████╗███████║██║ █╗ ██║███████║██╔██╗██║   ██║         ║
-║     ██╔██╗ ██╔══██║╚════██║██╔══██║██║███╗██║██╔══██║██║╚████║   ██║         ║
-║    ██╔╝╚██╗██║  ██║███████║██║  ██║╚███╔███╔╝██║  ██║██║ ╚███║   ██║         ║
-║    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚══╝   ╚═╝         ║
-║                                                                              ║
-║              [ INITIALIZING NEURAL NETWORK... PLEASE WAIT ]                  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<!-- DYNAMIC BADGES ROW -->
+<a href="https://github.com/chyk2468"><img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Focus"/></a>
+<a href="https://github.com/chyk2468"><img src="https://img.shields.io/badge/STATUS-INNOVATING-7f00ff?style=for-the-badge&labelColor=0d0d0d" alt="Status"/></a>
+<a href="https://github.com/chyk2468"><img src="https://img.shields.io/badge/BASED_IN-INDIA%20🇮🇳-ff6600?style=for-the-badge&labelColor=0d0d0d" alt="Location"/></a>
+<a href="mailto:chyk2468@gmail.com"><img src="https://img.shields.io/badge/OPEN_TO-COLLABORATION-00aaff?style=for-the-badge&labelColor=0d0d0d" alt="Collaboration"/></a>
+
+<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -30,149 +32,209 @@
 
 ---
 
-## `[SYSTEM BOOT LOG]`
+<!-- ═══════════════════ SYSTEM BOOT SEQUENCE ═══════════════════ -->
 
-```bash
-$ boot --profile yashwant
+<div align="center">
 
-[████████████████████████████████] 100%
+## `⟨ SYSTEM INITIALIZATION ⟩`
 
-[✓] CORE MODULE .......... AI / ML Engineer ............. LOADED
-[✓] SUB MODULE ........... Full-Stack Developer ......... LOADED
-[✓] RESEARCH UNIT ........ Deepfake Detection ........... ACTIVE
-[✓] EDUCATION ............ B.Tech CSE (AI & ML) ......... RUNNING
-[✓] PASSION DRIVE ........ AI Security .................. OVERCLOCKED 🔥
-[✓] CLOUD INTERFACE ...... AWS (Learning Mode) .......... SYNCING...
-[✓] CURRENT STATUS ....... Building the future 🚀........ ONLINE
+</div>
 
-> All modules initialized. Yashwant.exe is running.
+```
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│   ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗    ██████╗  ██████╗      │
+│   ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║    ██╔══██╗██╔═══██╗    │
+│   ███████╗ ╚████╔╝ ███████╗   ██║   █████╗  ██╔████╔██║    ██████╔╝██║   ██║    │
+│   ╚════██║  ╚██╔╝  ╚════██║   ██║   ██╔══╝  ██║╚██╔╝██║    ██╔══██╗██║   ██║    │
+│   ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║    ██████╔╝╚██████╔╝    │
+│   ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝    ╚═════╝  ╚═════╝    │
+│                                                                                  │
+│   [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%               │
+│                                                                                  │
+│   [✓] NEURAL_CORE .............. AI / ML Engineer ............... LOADED          │
+│   [✓] FULLSTACK_MODULE ......... Web + Backend Dev .............. LOADED          │
+│   [✓] RESEARCH_UNIT ............ Deepfake Detection ............. ACTIVE         │
+│   [✓] EDUCATION_NODE ........... B.Tech CSE (AI & ML) ........... RUNNING        │
+│   [✓] PASSION_DRIVE ............ AI Security & Ethics ........... OVERCLOCKED 🔥 │
+│   [✓] CLOUD_INTERFACE .......... AWS (Learning Mode) ............ SYNCING ☁️     │
+│   [✓] INNOVATION_ENGINE ........ Breaking AI Boundaries ......... ENGAGED ⚡     │
+│   [✓] THREAT_DETECTION ......... Deepfake + Fake News ........... SCANNING 🔍    │
+│                                                                                  │
+│   > All modules initialized. yashwant.exe is running at full capacity.           │
+│   > WARNING: Innovation levels exceeding safe thresholds. Proceeding anyway.     │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
+
+<!-- ═══════════════════ IDENTITY MATRIX ═══════════════════ -->
+
+<div align="center">
+
+## `⟨ IDENTITY MATRIX ⟩`
+> *Reverse-engineering the developer*
+
+</div>
+
+```python
+#!/usr/bin/env python3
+"""
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  yashwant.core — v3.0.26 | CLASSIFIED: ULTRA                               ║
+║  Last compiled: right now. Always compiling. Never stopping.                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+"""
+
+from __future__ import annotations
+from universe import Engineer, Researcher, Builder, Innovator
+
+class YashwantKumar(Engineer, Researcher, Builder, Innovator):
+    """
+    ╭───────────────────────────────────────────────────────────────────╮
+    │  ⚠️  CAUTION: This engineer has been known to:                    │
+    │     • Stay up until 3 AM "just fixing one more bug"              │
+    │     • Accidentally build an entire ML pipeline in a weekend      │
+    │     • Say "what if we add AI to it?" about everything            │
+    │     • Turn coffee into production-grade code                      │
+    │     Handle with curiosity. Side effects include innovation. 🔬   │
+    ╰───────────────────────────────────────────────────────────────────╯
+    """
+
+    # ═══ CORE IDENTITY ═══
+    CODENAME     = "chyk2468"
+    REAL_NAME    = "Yashwant Kumar Chitchula"
+    TITLE        = "AI/ML Engineer & Researcher"
+    UNIVERSITY   = "B.Tech CSE — Artificial Intelligence & Machine Learning"
+    LOCATION     = "India 🇮🇳"
+    TIMEZONE     = "IST (UTC+5:30)"
+
+    # ═══ WEAPON SYSTEMS ═══
+    ARSENAL = {
+        "🧠 intelligence" : ["Python", "TensorFlow", "PyTorch", "Scikit-Learn", "OpenCV"],
+        "⚔️  languages"   : ["Python", "JavaScript", "C", "C++"],
+        "🌐 web_stack"    : ["Node.js", "HTML5", "CSS3", "Streamlit"],
+        "🗄️  databases"   : ["MySQL", "MongoDB"],
+        "☁️  cloud"       : ["AWS", "Docker"],
+        "🔧 tools"        : ["Git", "GitHub", "VS Code", "Jupyter"],
+        "🤫 secret"       : "An unhealthy obsession with breaking AI to understand it",
+    }
+
+    # ═══ ACTIVE MISSIONS ═══
+    CURRENT_OPS = [
+        "🔐 Detecting deepfakes before they detect us",
+        "🧠 Teaching machines to think responsibly",
+        "🛡️ Building AI that protects, not deceives",
+        "💻 Crafting full-stack apps that actually matter",
+        "📡 Bridging AI research ↔ real-world deployment",
+        "🔬 Turning 'what if?' into 'watch this.'",
+    ]
+
+    def __repr__(self) -> str:
+        return "Not just a developer. An engineer who gives AI a conscience. 🤖❤️"
+
+    def philosophy(self) -> str:
+        return "If you can't explain how your AI works, you don't deserve to deploy it."
+
+
+if __name__ == "__main__":
+    yashwant = YashwantKumar()
+    print(yashwant)
+    # >>> Not just a developer. An engineer who gives AI a conscience. 🤖❤️
+    yashwant.philosophy()
+    # >>> If you can't explain how your AI works, you don't deserve to deploy it.
+```
+
+---
+
+<!-- ═══════════════════ NEURAL MAP ═══════════════════ -->
 
 <div align="center">
 
 ## `⟨ THE NEURAL MAP ⟩`
-> *How I think about problems*
+> *How problems enter my brain and exit as solutions*
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1a0033', 'primaryTextColor': '#00ff41', 'primaryBorderColor': '#7f00ff', 'lineColor': '#7f00ff', 'secondaryColor': '#0d0d0d', 'tertiaryColor': '#120028'}}}%%
 flowchart LR
-    subgraph INPUT["  INPUT LAYER  "]
-        A["� Problem Space"]
-        B["📊 Raw Data"]
-        C["💡 Curiosity"]
+    subgraph PERCEPTION["  🔮 PERCEPTION  "]
+        A["🎯 Problem"]
+        B["📊 Data"]
+        C["💡 Spark"]
     end
 
-    subgraph HIDDEN["  HIDDEN LAYERS  "]
-        D["🧠 Deep Learning"]
-        E["🔬 Research & Analysis"]
-        F["🛠️ Build & Iterate"]
+    subgraph PROCESSING["  🧠 DEEP PROCESSING  "]
+        D["🤖 ML Models"]
+        E["🔬 Research"]
+        F["🛠️ Engineering"]
+        G["🔁 Iterate"]
     end
 
-    subgraph OUTPUT["  OUTPUT  "]
-        G["✅ Working Solution"]
+    subgraph DEPLOYMENT["  🚀 DEPLOYMENT  "]
+        H["✅ Solution"]
+        I["📈 Impact"]
     end
 
     A --> D
-    B --> E
+    A --> E
+    B --> D
+    B --> F
+    C --> E
     C --> F
     D --> G
     E --> G
     F --> G
+    G --> H
+    H --> I
+    I -.->|"feedback"| A
 
-    style INPUT fill:#0a0010,stroke:#7f00ff,color:#00ff41
-    style HIDDEN fill:#0a0010,stroke:#7f00ff,color:#00ff41
-    style OUTPUT fill:#0a0010,stroke:#00ff41,color:#00ff41
+    style PERCEPTION fill:#0a0010,stroke:#7f00ff,stroke-width:2px,color:#00ff41
+    style PROCESSING fill:#0a0010,stroke:#7f00ff,stroke-width:2px,color:#00ff41
+    style DEPLOYMENT fill:#0a0010,stroke:#00ff41,stroke-width:2px,color:#00ff41
 ```
 
-> `ACTIVATION FUNCTION: Passion × Curiosity + Coffee ☕`
+> `ACTIVATION_FN = ReLU(Passion) × Sigmoid(Curiosity) + Bias(Coffee) ☕`
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
 ---
 
-## `⟨ WHO AM I ⟩`
-
-```python
-#!/usr/bin/env python3
-# yashwant.core — v2.0.26
-
-from universe import Engineer, Researcher, Builder
-
-class YashwantKumar(Engineer, Researcher, Builder):
-    """
-    ┌─────────────────────────────────────────────────────────────┐
-    │  WARNING: This developer may cause sudden bursts of         │
-    │  innovation, unsolicited AI experiments, and late-night     │
-    │  "what if we tried..." moments. Handle with curiosity. 🔬  │
-    └─────────────────────────────────────────────────────────────┘
-    """
-    CODENAME   = "chyk2468"
-    UNIVERSITY = "B.Tech CSE (AI & ML)"
-    LOCATION   = "India 🇮🇳"
-    TIMEZONE   = "IST (GMT+5:30)"
-
-    WEAPONS_OF_CHOICE = {
-        "primary"      : ["Python", "TensorFlow", "PyTorch"],
-        "secondary"    : ["JavaScript", "Node.js", "C++"],
-        "database"     : ["MySQL", "MongoDB"],
-        "cloud"        : ["AWS ⬆️ (currently leveling up)"],
-        "secret_weapon": "An obsession with breaking AI to understand it 🧠",
-    }
-
-    CURRENT_MISSIONS = [
-        "🔐 Detecting deepfakes before they detect us",
-        "🧠 Teaching machines to think responsibly",
-        "💻 Building full-stack apps that actually matter",
-        "📡 Bridging the gap between AI research & real-world use",
-    ]
-
-    def __repr__(self):
-        return "Not just a developer. A person who gives AI a conscience. 🤖❤️"
-
-yashwant = YashwantKumar()
-print(yashwant)
-# OUTPUT: Not just a developer. A person who gives AI a conscience. 🤖❤️
-```
-
----
+<!-- ═══════════════════ TECH ARSENAL ═══════════════════ -->
 
 <div align="center">
 
-## `⟨ WEAPON SYSTEM / TECH STACK ⟩`
+## `⟨ WEAPONS SYSTEM / TECH ARSENAL ⟩`
+> *Every tool in the armory*
+
+<br/>
 
 ### 🧠 Intelligence Core — AI & ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&perline=5" />
 
-### ⚙️ Build Core — Languages & Web
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,c,cpp,html&perline=5" />
+<br/><br/>
 
-### 🛠️ Ops Core — Tools & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,mongodb&perline=6" />
+### ⚔️ Combat Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,html,css&perline=6" />
 
-<br>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### 🌐 Web & Backend Arsenal
+<img src="https://skillicons.dev/icons?i=nodejs,express,html,css,flask&perline=5" />
 
-</div>
+<br/><br/>
 
----
+### ☁️ Cloud & DevOps Ops
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux&perline=6" />
 
-<div align="center">
+<br/><br/>
 
-## `⟨ MISSION CONTROL / GITHUB STATS ⟩`
+### 🗄️ Data Fortresses
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=7f00ff&text_color=00ff41&border_radius=10" width="48%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=merko&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&border_radius=10" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=donut&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41&border_radius=10" width="38%"/>
-
-<br>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chyk2468&bg_color=0d0d0d&color=00ff41&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -180,71 +242,185 @@ print(yashwant)
 
 ---
 
-<div align="center">
-
-## `⟨ FIELD REPORTS / PROJECTS ⟩`
-
-> *What I've built in the wild*
-
-| 🚀 Project | 🔬 Domain | 💥 Status |
-|:---|:---|:---:|
-| **MailMind-AI** | AI-powered email intelligence | 🟢 LIVE |
-| **Fake-News-Detection** | NLP + ML news classifier | 🟢 LIVE |
-| **Fruit-Veg-Detector** | CNN real-time image classifier | 🟢 LIVE |
-| **My-Love-PDF** | PDF tools suite | 🟢 LIVE |
-| **Deepfake Detector** *(research)* | GAN forensics & face analysis | 🔴 CLASSIFIED |
-
-</div>
-
----
+<!-- ═══════════════════ MISSION CONTROL — STATS ═══════════════════ -->
 
 <div align="center">
 
-## `⟨ SIGNAL FREQUENCIES / CONTACT ⟩`
+## `⟨ MISSION CONTROL / TELEMETRY ⟩`
+> *Real-time performance metrics*
 
-```
-  ┌────────────────────────────────────────────────────────────┐
-  │   Want to collaborate? Build? Break AI together?           │
-  │   Here's how to reach the signal:                         │
-  └────────────────────────────────────────────────────────────┘
-```
-
-[![LinkedIn](https://img.shields.io/badge/─%20LINKEDIN%20─-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yashwant-kumar-chitchula-117131290)
-[![Gmail](https://img.shields.io/badge/─%20GMAIL%20─-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chyk2468@gmail.com)
-[![Bluesky](https://img.shields.io/badge/─%20BLUESKY%20─-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000)](https://bsky.app/profile/chyk2468.bsky.social)
-[![GitHub](https://img.shields.io/badge/─%20GITHUB%20─-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/chyk2468)
-
-<br>
-
-## `⟨ CONTRIBUTION MAP ⟩`
-> *Neural activity over time...*
+<br/>
 
 <a href="https://github.com/chyk2468">
-  <img src="https://ghchart.rshah.org/00ff41/chyk2468" alt="GitHub Contribution Chart" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=7f00ff&text_color=c0c0c0&ring_color=7f00ff&border_radius=12&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/chyk2468">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=666666&border_radius=12" width="48%" alt="Streak Stats"/>
 </a>
 
-<br>
+<br/><br/>
+
+<a href="https://github.com/chyk2468">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=12&langs_count=8" width="36%" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+[![Commit Activity](https://github-readme-activity-graph.vercel.app/graph?username=chyk2468&bg_color=0d0d0d&color=00ff41&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&custom_title=%E2%9A%A1+NEURAL+ACTIVITY+FREQUENCY&title_color=00ff41)](https://github.com/chyk2468)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+<!-- ═══════════════════ FIELD REPORTS / PROJECTS ═══════════════════ -->
+
+<div align="center">
+
+## `⟨ FIELD REPORTS / DEPLOYED PROJECTS ⟩`
+> *Every mission. Every deployment. Every impact.*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| # | 🚀 **Project** | 🧬 **Domain** | 📝 **Description** | 💥 **Status** |
+|:-:|:---|:---|:---|:---:|
+| 01 | [**MailMind-AI**](https://github.com/chyk2468/MailMind-AI) | AI / NLP / RAG | AI-powered email intelligence with RAG engine | 🟢 `LIVE` |
+| 02 | [**Fake-News-Detection**](https://github.com/chyk2468/Fake-News-Detection) | NLP / ML | Machine learning news authenticity classifier | 🟢 `LIVE` |
+| 03 | [**Fruit-Veg-Detector**](https://github.com/chyk2468/Fruit-Veg-Detector) | Computer Vision | CNN real-time fruit & vegetable classifier | 🟢 `LIVE` |
+| 04 | [**My_love_pdf**](https://github.com/chyk2468/My_love_pdf) | Utility / Web | All-in-one PDF manipulation toolkit | 🟢 `LIVE` |
+| 05 | [**Movie_Recommender**](https://github.com/chyk2468/Movie_Recommender) | ML / RecSys | Content-based movie recommendation system | 🟢 `LIVE` |
+| 06 | [**Image-Upscaling-py**](https://github.com/chyk2468/Image-Upscaling-py) | Computer Vision | AI-powered image super-resolution tool | 🟢 `LIVE` |
+| 07 | [**Smart-Helmet**](https://github.com/chyk2468/Smart-Helmet-for-industrial-safety-monitoring-using-esp32-and-Blynk) | IoT / Embedded | ESP32-based industrial safety monitoring helmet | 🟡 `R&D` |
+| 08 | [**AmbitionBox-Scraper**](https://github.com/chyk2468/AmbitionBox-Companies-Web-Scraper) | Web Scraping | Company data intelligence scraper | 🟢 `LIVE` |
+| 09 | [**SMOTE-IDS2017**](https://github.com/chyk2468/Application-of-the-SMOTETomek-Technique-to-Address-Class-Imbalance-in-the-CIC-IDS2017-Dataset) | Cybersecurity / ML | SMOTETomek for intrusion detection datasets | 🔬 `RESEARCH` |
+| 10 | [**Machine-Learning-ML**](https://github.com/chyk2468/Machine-learning-ML-) | ML | Core ML experiments & algorithms collection | 📚 `ARCHIVE` |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"10 repos. 10 different problems. 1 obsession: making AI work for humans."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+<!-- ═══════════════════ CONTRIBUTION MAP ═══════════════════ -->
+
+<div align="center">
+
+## `⟨ NEURAL ACTIVITY MAP ⟩`
+> *Contribution heatmap — every green square is a solved problem*
+
+<br/>
+
+<a href="https://github.com/chyk2468">
+  <img src="https://ghchart.rshah.org/00ff41/chyk2468" alt="GitHub Contribution Chart" width="95%"/>
+</a>
+
+<br/><br/>
 
 ## `⟨ ACHIEVEMENTS UNLOCKED ⟩`
 
-<img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-?" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-?" width="95%"/>
 
-<br>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+</div>
+
+---
+
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
+
+<div align="center">
+
+## `⟨ ESTABLISH CONNECTION ⟩`
+
 ```
-$ shutdown --message "Thanks for visiting. Now go build something incredible."
-
-[✓] Session logged
-[✓] Neural weights saved
-[✓] Coffee levels: CRITICAL ☕
-
-> Goodbye, traveler. The machines await. 🤖
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   "The best code is written together.                                ║
+  ║    The best AI is built with purpose.                                ║
+  ║    Let's do both."                                                   ║
+  ║                                                              — Y.K.  ║
+  ║                                                                      ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0010,70:120028,100:000000&height=120&section=footer" width="100%"/>
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=chyk2468&icon=6&color=6)](https://visitcount.itsvg.in)
+<a href="https://linkedin.com/in/yashwant-kumar-chitchula-117131290">
+  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:chyk2468@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" alt="Gmail"/>
+</a>&nbsp;&nbsp;
+<a href="https://bsky.app/profile/chyk2468.bsky.social">
+  <img src="https://img.shields.io/badge/BLUESKY-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0d0d0d" alt="Bluesky"/>
+</a>&nbsp;&nbsp;
+<a href="https://github.com/chyk2468">
+  <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
+
+<!-- ═══════════════════ SHUTDOWN SEQUENCE ═══════════════════ -->
+
+<div align="center">
+
+## `⟨ SESSION TERMINATION ⟩`
+
+```
+  ┌──────────────────────────────────────────────────────────────────┐
+  │                                                                  │
+  │   $ shutdown --save-state --message "Until next compile..."      │
+  │                                                                  │
+  │   [✓] Session logged to /var/log/visitors.log                    │
+  │   [✓] Neural weights saved to checkpoint_latest.pt               │
+  │   [✓] All connections encrypted and archived                     │
+  │   [✓] Coffee reserves: ████████░░ 78% [REFILL RECOMMENDED] ☕   │
+  │   [✓] Innovation quotient: ████████████████████ MAXIMUM 🔥      │
+  │                                                                  │
+  │   > "Thanks for visiting my corner of the internet.              │
+  │   >  Now go build something that makes the world think twice."   │
+  │                                                                  │
+  │   > Goodbye, traveler. The machines remember you. 🤖             │
+  │                                                                  │
+  └──────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<!-- RANDOM DEV QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Dev Quote" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:0a0010,30:120028,50:1a0040,70:120028,85:0a0010,100:000000&height=150&section=footer&text=chyk2468&fontSize=24&fontColor=00ff4180&fontAlignY=75&animation=twinkling" width="100%"/>
+
+<br/>
+
+[![Visitors](https://visitcount.itsvg.in/api?id=chyk2468&icon=6&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+<sub>⚡ Engineered with obsession by <b>Yashwant Kumar</b> · Last deployed: 2026 · All systems nominal ⚡</sub>
 
 </div>
