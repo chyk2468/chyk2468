@@ -1,219 +1,278 @@
+<!-- ████████████████████████████████████████████████████████████████████████
+     ██                                                                    ██
+     ██   YASHWANT KUMAR CHITCHULA  —  GITHUB PROFILE README              ██
+     ██   Theme: Neural Network / Terminal Boot / Sci-Fi                  ██
+     ██                                                                    ██
+     ████████████████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- � ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:000066&height=280&section=header&text=Yashwant%20Kumar%20Chitchula&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer%20%7C%20Deepfake%20Researcher&descAlignY=58&descAlign=50&descSize=18&stroke=7f00ff&strokeWidth=2" width="100%"/>
+<!-- BOOT SEQUENCE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0a0010,60:120028,100:000000&height=3&section=header" width="100%"/>
 
-<!-- ✨ ANIMATED TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=7F00FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🤖+AI+%26+ML+Engineer;🧠+Deep+Learning+Specialist;🔐+Deepfake+Detection+Expert;💻+Full-Stack+Developer;☁️+Cloud+Learner+(AWS)" alt="Typing SVG" />
-</a>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗   ██╗ █████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ███╗  ██╗████████╗   ║
+║    ╚██╗██╔╝██╔══██╗██╔════╝██║  ██║██║    ██║██╔══██╗████╗ ██║╚══██╔══╝   ║
+║     ╚███╔╝ ███████║███████╗███████║██║ █╗ ██║███████║██╔██╗██║   ██║      ║
+║     ██╔██╗ ██╔══██║╚════██║██╔══██║██║███╗██║██╔══██║██║╚████║   ██║      ║
+║    ██╔╝╚██╗██║  ██║███████║██║  ██║╚███╔███╔╝██║  ██║██║ ╚███║   ██║      ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚══╝   ╚═╝     ║
+║                                                                              ║
+║              [ INITIALIZING NEURAL NETWORK... PLEASE WAIT ]                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<!-- 🔮 ANIMATED GLOW DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ANIMATED TYPING — TERMINAL STYLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=%24+whoami+--verbose;%3E+Yashwant+Kumar+Chitchula;%24+cat+%2Fetc%2Fidentity;%3E+AI+%7C+ML+%7C+Deepfake+Researcher;%24+echo+%24PASSION;%3E+Breaking+AI+to+make+it+safer+%F0%9F%94%90;%24+./initialize_neural_net.sh;%3E+%5BOK%5D+All+systems+nominal+%F0%9F%9F%A2" alt="Typing SVG" />
+
+<br/>
+
+<!-- NEON SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,50:00ff41,100:7f00ff&height=2&section=header" width="80%"/>
 
 </div>
 
-<!-- � ABOUT ME SECTION -->
+---
+
+## `[SYSTEM BOOT LOG]`
+
+```bash
+$ boot --profile yashwant
+
+[████████████████████████████████] 100%
+
+[✓] CORE MODULE .......... AI / ML Engineer ............. LOADED
+[✓] SUB MODULE ........... Full-Stack Developer ......... LOADED
+[✓] RESEARCH UNIT ........ Deepfake Detection ........... ACTIVE
+[✓] EDUCATION ............ B.Tech CSE (AI & ML) ......... RUNNING
+[✓] PASSION DRIVE ........ AI Security .................. OVERCLOCKED 🔥
+[✓] CLOUD INTERFACE ...... AWS (Learning Mode) .......... SYNCING...
+[✓] CURRENT STATUS ....... Building the future 🚀........ ONLINE
+
+> All modules initialized. Yashwant.exe is running.
+```
+
+---
+
 <div align="center">
 
-## 🌌 `< About Me />`
+## `⟨ THE NEURAL MAP ⟩`
+> *How I think about problems*
+
+```
+INPUT LAYER                 HIDDEN LAYERS                  OUTPUT
+──────────                  ─────────────                  ──────
+                            ┌─────────────┐
+ ┌─────────┐                │  🧠 Deep    │
+ │Problem  │──────────────▶ │   Learning  │──┐
+ │ Space   │                └─────────────┘  │            ┌──────────────┐
+ └─────────┘                                 │            │  💡SOLUTION  │
+                            ┌─────────────┐  ├──────────▶ │             │
+ ┌─────────┐                │  🔬 Research│  │            │  ✅WORKING   │
+ │Raw Data │──────────────▶ │   Analysis  │──┘            │             │
+ └─────────┘                └─────────────┘               └──────────────┘
+                            ┌─────────────┐
+ ┌─────────┐                │  🛠️ Build &  │
+ │Curiosity│──────────────▶ │   Iterate   │
+ └─────────┘                └─────────────┘
+
+    ACTIVATION FUNCTION: Passion × Curiosity + Coffee ☕
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `⟨ WHO AM I ⟩`
 
 </div>
 
 ```python
-class YashwantKumar:
-    def __init__(self):
-        self.name       = "Yashwant Kumar Chitchula"
-        self.degree     = "B.Tech CSE (AI & ML)"
-        self.role       = ["AI/ML Engineer", "Full-Stack Developer", "Deepfake Researcher"]
-        self.languages  = ["Python", "C", "C++", "JavaScript", "R", "Java"]
-        self.dl_models  = ["CNN", "LSTM", "Transformers", "GANs"]
-        self.libraries  = ["TensorFlow", "PyTorch", "Keras", "Scikit-Learn",
-                           "NumPy", "Pandas", "Matplotlib", "Plotly"]
-        self.databases  = ["MySQL", "MongoDB"]
-        self.cloud      = ["AWS (Learning)"]
-        self.passion    = "AI Security & Deepfake Detection 🔐"
-        self.status     = "Building the future, one model at a time 🚀"
+#!/usr/bin/env python3
+# yashwant.core — v2.0.26
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🤝")
+from universe import Engineer, Researcher, Builder
 
-me = YashwantKumar()
-me.say_hi()
+class YashwantKumar(Engineer, Researcher, Builder):
+    """
+    ┌─────────────────────────────────────────────────────────────┐
+    │  WARNING: This developer may cause sudden bursts of         │
+    │  innovation, unsolicited AI experiments, and late-night     │
+    │  "what if we tried..." moments. Handle with curiosity. 🔬  │
+    └─────────────────────────────────────────────────────────────┘
+    """
+    CODENAME   = "chyk2468"
+    UNIVERSITY = "B.Tech CSE (AI & ML)"
+    LOCATION   = "India 🇮🇳"
+    TIMEZONE   = "IST (GMT+5:30)"
+
+    WEAPONS_OF_CHOICE = {
+        "primary"      : ["Python", "TensorFlow", "PyTorch"],
+        "secondary"    : ["JavaScript", "Node.js", "C++"],
+        "database"     : ["MySQL", "MongoDB"],
+        "cloud"        : ["AWS ⬆️ (currently leveling up)"],
+        "secret_weapon": "An obsession with breaking AI to understand it 🧠",
+    }
+
+    CURRENT_MISSIONS = [
+        "🔐 Detecting deepfakes before they detect us",
+        "🧠 Teaching machines to think responsibly",
+        "💻 Building full-stack apps that actually matter",
+        "📡 Bridging the gap between AI research & real-world use",
+    ]
+
+    def __repr__(self):
+        return "Not just a developer. A person who gives AI a conscience. 🤖❤️"
+
+yashwant = YashwantKumar()
+print(yashwant)
+# OUTPUT: Not just a developer. A person who gives AI a conscience. 🤖❤️
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
-<!-- 🌐 SOCIALS -->
 <div align="center">
 
-## 🌐 Connect With Me
+## `⟨ WEAPON SYSTEM / TECH STACK ⟩`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yashwant-kumar-chitchula-117131290)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000)](https://bsky.app/profile/chyk2468.bsky.social)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chyk2468@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/chyk2468)
+<!-- ROW 1 -->
+### 🧠 Intelligence Core — AI & ML
+
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+
+### ⚙️ Build Core — Languages & Web
+
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![CPP](https://skillicons.dev/icons?i=cpp)](https://cppreference.com)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org)
+
+### 🛠️ Ops Core — Tools & Cloud
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/chyk2468)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+
+<br>
+
+<!-- NEON SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,50:00ff41,100:7f00ff&height=2&section=header" width="80%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
-<!-- 💻 TECH STACK -->
 <div align="center">
 
-## ⚡ Tech Arsenal
+## `⟨ MISSION CONTROL / GITHUB STATS ⟩`
 
-### 🧠 AI / ML / Deep Learning
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)
+<table>
+<tr>
+<td>
 
-### 💻 Languages & Web
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=7f00ff&text_color=00ff41&ring_color=7f00ff&border_radius=10" />
 
-### 🛠️ Tools & Cloud
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+</td>
+<td>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&border_radius=10" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41&border_radius=10" width="38%"/>
+
+<br>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chyk2468&bg_color=0d0d0d&color=00ff41&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&border_radius=10&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
-<!-- 📊 GITHUB STATS -->
 <div align="center">
 
-## 📊 GitHub Stats
+## `⟨ FIELD REPORTS / PROJECTS ⟩`
 
-<img src="https://github-readme-stats.vercel.app/api?username=chyk2468&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7f00ff&icon_color=7f00ff&text_color=ffffff&border_radius=15" width="48%" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=tokyonight&hide_border=true&background=0d1117&ring=7f00ff&fire=ff6b6b&currStreakLabel=7f00ff&border_radius=15" width="48%" />
+> *What I've built in the wild*
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=7f00ff&text_color=ffffff&border_radius=15" width="40%" />
+| 🚀 Project | 🔬 Domain | 💥 Status |
+|:---|:---|:---:|
+| **MailMind-AI** | AI-powered email intelligence | 🟢 LIVE |
+| **Fake-News-Detection** | NLP + ML news classifier | 🟢 LIVE |
+| **Fruit-Veg-Detector** | CNN real-time image classifier | 🟢 LIVE |
+| **My-Love-PDF** | PDF tools suite | 🟢 LIVE |
+| **Deepfake Detector** *(research)* | GAN forensics & face analysis | 🔴 CLASSIFIED |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
-<!-- 🏆 TROPHIES -->
 <div align="center">
 
-## 🏆 GitHub Trophies
+## `⟨ SIGNAL FREQUENCIES / CONTACT ⟩`
 
-<img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+```
+  ┌────────────────────────────────────────────────────────────┐
+  │   Want to collaborate? Build? Break AI together?           │
+  │   Here's how to reach the signal:                         │
+  └────────────────────────────────────────────────────────────┘
+```
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/─%20LINKEDIN%20─-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yashwant-kumar-chitchula-117131290)
+[![Gmail](https://img.shields.io/badge/─%20GMAIL%20─-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:chyk2468@gmail.com)
+[![Bluesky](https://img.shields.io/badge/─%20BLUESKY%20─-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=000000)](https://bsky.app/profile/chyk2468.bsky.social)
+[![GitHub](https://img.shields.io/badge/─%20GITHUB%20─-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/chyk2468)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
----
-
-<!-- 🔥 ACTIVITY GRAPH -->
-<div align="center">
-
-## 📈 Contribution Graph
-
-[![Yashwant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chyk2468&bg_color=0d1117&color=7f00ff&line=7f00ff&point=ffffff&area=true&hide_border=true&border_radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- 🔝 TOP REPOS -->
-<div align="center">
-
-### 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=chyk2468&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten!
+<!-- CONTRIBUTION SNAKE -->
+## `⟨ THE COMMIT SNAKE ⟩`
+> *Watch my contributions disappear...*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- 😂 RANDOM DEV JOKE -->
-<div align="center">
-
-## 😂 Dev Humor
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=%230d1117&textColor=%237f00ff&qColor=%23ffffff&aColor=%23ff6b6b)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- 🌟 QUOTE -->
-<div align="center">
-
-## 💬 Dev Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-<!-- 👁️ VISITOR COUNT -->
-<div align="center">
-
-### 👁️ Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=chyk2468&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <br>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000066,50:1a0033,100:0d0d0d&height=120&section=footer" width="100%"/>
+<!-- TROPHY -->
+## `⟨ ACHIEVEMENTS UNLOCKED ⟩`
+
+<img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+<br>
+
+<!-- FINAL SHUTDOWN SEQUENCE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,50:00ff41,100:7f00ff&height=2&section=header" width="80%"/>
+
+```
+$ shutdown --message "Thanks for visiting. Now go build something incredible."
+
+[✓] Session logged
+[✓] Neural weights saved
+[✓] Coffee levels: CRITICAL
+
+> Goodbye, traveler. The machines await. 🤖
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0010,70:120028,100:000000&height=100&section=footer" width="100%"/>
+
+[![](https://visitcount.itsvg.in/api?id=chyk2468&icon=6&color=12)](https://visitcount.itsvg.in)
 
 </div>
