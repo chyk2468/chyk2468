@@ -216,20 +216,18 @@ print(yashwant)
 
 <br>
 
-## `⟨ THE COMMIT SNAKE ⟩`
-> *Watch my contributions disappear...*
+## `⟨ CONTRIBUTION MAP ⟩`
+> *Neural activity over time...*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/github-snake-dark.svg" />
-</picture>
+<a href="https://github.com/chyk2468">
+  <img src="https://ghchart.rshah.org/00ff41/chyk2468" alt="GitHub Contribution Chart" width="100%"/>
+</a>
 
 <br>
 
 ## `⟨ ACHIEVEMENTS UNLOCKED ⟩`
 
-<img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-?" width="100%"/>
 
 <br>
 
