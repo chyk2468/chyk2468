@@ -1,14 +1,14 @@
 <!-- ████████████████████████████████████████████████████████████████████████
-     ██                                                                    ██
      ██   YASHWANT KUMAR CHITCHULA  —  GITHUB PROFILE README              ██
      ██   Theme: Neural Network / Terminal Boot / Sci-Fi                  ██
-     ██                                                                    ██
      ████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<!-- BOOT SEQUENCE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0a0010,60:120028,100:000000&height=3&section=header" width="100%"/>
+<!-- ANIMATED TYPING — TERMINAL STYLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=%24+whoami+--verbose;%3E+Yashwant+Kumar+Chitchula;%24+cat+%2Fetc%2Fidentity;%3E+AI+%7C+ML+%7C+Deepfake+Researcher;%24+echo+%24PASSION;%3E+Breaking+AI+to+make+it+safer+%F0%9F%94%90;%24+./initialize_neural_net.sh;%3E+%5BOK%5D+All+systems+nominal+%F0%9F%9F%A2" alt="Typing SVG" />
+
+<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -24,13 +24,7 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<!-- ANIMATED TYPING — TERMINAL STYLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=2500&pause=600&color=00FF41&center=true&vCenter=true&width=750&height=60&lines=%24+whoami+--verbose;%3E+Yashwant+Kumar+Chitchula;%24+cat+%2Fetc%2Fidentity;%3E+AI+%7C+ML+%7C+Deepfake+Researcher;%24+echo+%24PASSION;%3E+Breaking+AI+to+make+it+safer+%F0%9F%94%90;%24+./initialize_neural_net.sh;%3E+%5BOK%5D+All+systems+nominal+%F0%9F%9F%A2" alt="Typing SVG" />
-
-<br/>
-
-<!-- NEON SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,50:00ff41,100:7f00ff&height=2&section=header" width="80%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -85,11 +79,7 @@ INPUT LAYER                 HIDDEN LAYERS                  OUTPUT
 
 ---
 
-<div align="center">
-
 ## `⟨ WHO AM I ⟩`
-
-</div>
 
 ```python
 #!/usr/bin/env python3
@@ -139,36 +129,18 @@ print(yashwant)
 
 ## `⟨ WEAPON SYSTEM / TECH STACK ⟩`
 
-<!-- ROW 1 -->
 ### 🧠 Intelligence Core — AI & ML
-
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
-[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&perline=5" />
 
 ### ⚙️ Build Core — Languages & Web
-
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://javascript.com)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![CPP](https://skillicons.dev/icons?i=cpp)](https://cppreference.com)
-[![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org)
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,c,cpp,html&perline=5" />
 
 ### 🛠️ Ops Core — Tools & Cloud
-
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/chyk2468)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,mongodb&perline=6" />
 
 <br>
 
-<!-- NEON SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,50:00ff41,100:7f00ff&height=2&section=header" width="80%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -178,26 +150,18 @@ print(yashwant)
 
 ## `⟨ MISSION CONTROL / GITHUB STATS ⟩`
 
-<table>
-<tr>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=7f00ff&text_color=00ff41&border_radius=10" width="48%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=merko&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&border_radius=10" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=7f00ff&text_color=00ff41&ring_color=7f00ff&border_radius=10" />
+<br><br>
 
-</td>
-<td>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&border_radius=10" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41&border_radius=10" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=donut&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41&border_radius=10" width="38%"/>
 
 <br>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chyk2468&bg_color=0d0d0d&color=00ff41&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&border_radius=10&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chyk2468&bg_color=0d0d0d&color=00ff41&line=7f00ff&point=ffffff&area=true&area_color=7f00ff&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -239,7 +203,6 @@ print(yashwant)
 
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
 ## `⟨ THE COMMIT SNAKE ⟩`
 > *Watch my contributions disappear...*
 
@@ -251,28 +214,26 @@ print(yashwant)
 
 <br>
 
-<!-- TROPHY -->
 ## `⟨ ACHIEVEMENTS UNLOCKED ⟩`
 
 <img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 <br>
 
-<!-- FINAL SHUTDOWN SEQUENCE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,50:00ff41,100:7f00ff&height=2&section=header" width="80%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ```
 $ shutdown --message "Thanks for visiting. Now go build something incredible."
 
 [✓] Session logged
 [✓] Neural weights saved
-[✓] Coffee levels: CRITICAL
+[✓] Coffee levels: CRITICAL ☕
 
 > Goodbye, traveler. The machines await. 🤖
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0010,70:120028,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0010,70:120028,100:000000&height=120&section=footer" width="100%"/>
 
-[![](https://visitcount.itsvg.in/api?id=chyk2468&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chyk2468&icon=6&color=6)](https://visitcount.itsvg.in)
 
 </div>
