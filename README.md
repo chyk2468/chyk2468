@@ -251,18 +251,14 @@ flowchart LR
 
 <br/>
 
-<a href="https://github.com/chyk2468">
-  <img src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=7f00ff&text_color=c0c0c0&ring_color=7f00ff&border_radius=12&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-</a>
+
 <a href="https://github.com/chyk2468">
   <img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=666666&border_radius=12" width="48%" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/chyk2468">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=c0c0c0&border_radius=12&langs_count=8" width="36%" alt="Top Languages"/>
-</a>
+
 
 <br/><br/>
 
@@ -314,22 +310,36 @@ flowchart LR
 
 ---
 
-<!-- ═══════════════════ CONTRIBUTION MAP ═══════════════════ -->
+<!-- ═══════════════════ LIVE METRICS & ACHIEVEMENTS ═══════════════════ -->
 
 <div align="center">
 
-## `⟨ NEURAL ACTIVITY MAP ⟩`
-> *Contribution heatmap — every green square is a solved problem*
+## `⟨ LIVE SYSTEM METRICS ⟩`
+> *Real-time intel from the field*
 
 <br/>
 
-<a href="https://github.com/chyk2468">
-  <img src="https://ghchart.rshah.org/00ff41/chyk2468" alt="GitHub Contribution Chart" width="95%"/>
+<!-- DYNAMIC GITHUB BADGES -->
+<a href="https://github.com/chyk2468?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=REPOS&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchyk2468&style=for-the-badge&color=00ff41&labelColor=0d0d0d&logoColor=00ff41" alt="Repos"/></a>&nbsp;
+<a href="https://github.com/chyk2468?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=FOLLOWERS&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchyk2468&style=for-the-badge&color=7f00ff&labelColor=0d0d0d&logoColor=7f00ff" alt="Followers"/></a>&nbsp;
+<a href="https://github.com/chyk2468"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=FOLLOWING&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchyk2468&style=for-the-badge&color=00aaff&labelColor=0d0d0d&logoColor=00aaff" alt="Following"/></a>&nbsp;
+<a href="https://github.com/chyk2468"><img src="https://img.shields.io/github/stars/chyk2468?affiliations=OWNER&style=for-the-badge&color=FFD700&labelColor=0d0d0d&logoColor=FFD700&logo=github&label=TOTAL%20STARS" alt="Stars"/></a>
+
+<br/><br/>
+
+<!-- RANDOM DEV JOKE -->
+## `⟨ /dev/random/humor ⟩`
+> *Because even neural networks need a laugh*
+
+<a href="https://readme-jokes.vercel.app">
+  <img src="https://readme-jokes.vercel.app/api?theme=gotham&qColor=%2300ff41&aColor=%237f00ff&borderColor=%237f00ff&bgColor=%230d0d0d" alt="Random Dev Joke" width="60%"/>
 </a>
 
 <br/><br/>
 
+<!-- ACHIEVEMENTS -->
 ## `⟨ ACHIEVEMENTS UNLOCKED ⟩`
+> *Trophies earned in the field*
 
 <img src="https://github-profile-trophy.vercel.app/?username=chyk2468&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-?" width="95%"/>
 
