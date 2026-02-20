@@ -253,7 +253,7 @@ flowchart LR
 
 
 <a href="https://github.com/chyk2468">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=666666&border_radius=12" width="48%" alt="Streak Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chyk2468&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=7f00ff&fire=00ff41&currStreakLabel=00ff41&sideLabels=c0c0c0&dates=666666&border_radius=12" width="70%" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
