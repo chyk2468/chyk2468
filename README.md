@@ -1,6 +1,6 @@
 <!-- ████████████████████████████████████████████████████████████████████████████████
      ██                                                                          ██
-     ██   Y A S H W A N T   K U M A R   C H I T C H U L A                       ██
+     ██   Y A S H W A N T   K U M A R   C H I T C H U L A                        ██
      ██   CODENAME: chyk2468                                                     ██
      ██   CLEARANCE: ULTRA                                                       ██
      ██   STATUS: ONLINE                                                         ██
