@@ -237,26 +237,44 @@ class YashwantKumar:
 ## 🧠 Research Focus Mindmap
 
 ```mermaid
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'primaryColor': '#1a0040',
+    'primaryTextColor': '#00FFD1',
+    'primaryBorderColor': '#00FFD1',
+    'lineColor': '#7F00FF',
+    'secondaryColor': '#0D1117',
+    'tertiaryColor': '#0D1B2A',
+    'background': '#0D1117',
+    'mainBkg': '#1a0040',
+    'nodeBorder': '#00FFD1',
+    'clusterBkg': '#0d0d2b',
+    'titleColor': '#ffffff',
+    'edgeLabelBackground': '#0d0d2b',
+    'fontFamily': 'Fira Code, monospace'
+  }
+}}%%
 mindmap
-  root((Yashwant))
-    AI & ML
-      Deepfake Detection
-      LLM Finetuning
-      Computer Vision
-      NLP
-    Engineering
-      Python
-      Full-Stack Web
-      REST APIs
-      Cloud (AWS)
-    Research
-      AI Security
-      Fake News Detection
-      Intrusion Detection
-    Philosophy
-      Explainable AI
-      Responsible AI
-      Open Source
+  root((🧠 Yashwant))
+    🤖 AI & ML
+      🎭 Deepfake Detection
+      🔬 LLM Finetuning
+      👁️ Computer Vision
+      📝 NLP
+    ⚙️ Engineering
+      🐍 Python
+      🌐 Full-Stack Web
+      🔗 REST APIs
+      ☁️ Cloud AWS
+    🔭 Research
+      🔐 AI Security
+      📰 Fake News Detection
+      🛡️ Intrusion Detection
+    💡 Philosophy
+      🔎 Explainable AI
+      ⚖️ Responsible AI
+      🌍 Open Source
 ```
 
 <br/>
