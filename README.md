@@ -8,7 +8,7 @@
 <!-- ══════════════════ PROFILE VIEWS + FOLLOW ══════════════════ -->
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=chyk2468&icon=2&color=6)
+![Profile Views]([https://visitcount.itsvg.in/api?id=chyk2468&icon=2&color=6](https://yashwant-kumar-chitchula.vercel.app/))
 [![GitHub followers](https://img.shields.io/github/followers/chyk2468?label=Followers&style=social)](https://github.com/chyk2468)
 [![GitHub Stars](https://img.shields.io/github/stars/chyk2468?affiliations=OWNER&style=social&label=Stars)](https://github.com/chyk2468)
 
