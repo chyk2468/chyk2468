@@ -1,16 +1,17 @@
 <div align="center">
 
 <!-- ══════════════════ ANIMATED HEADER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=YASHWANT%20KUMAR&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Research%20%7C%20Full-Stack&descAlignY=60&descSize=22&animation=twinkling&stroke=00FFD1&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=280&section=header&text=YASHWANT%20KUMAR&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Research%20%7C%20Full-Stack&descAlignY=60&descSize=20&animation=twinkling&stroke=00FFD1&strokeWidth=3" width="100%"/>
 
 </div>
 
-<!-- ══════════════════ PROFILE VIEWS + FOLLOW ══════════════════ -->
+<!-- ══════════════════ PROFILE VIEWS + FOLLOW (fixed) ══════════════════ -->
 <div align="center">
 
-![Profile Views]([https://visitcount.itsvg.in/api?id=chyk2468&icon=2&color=6](https://yashwant-kumar-chitchula.vercel.app/)
+[![Profile Views](https://visitcount.itsvg.in/api?id=chyk2468&icon=2&color=6)](https://yashwant-kumar-chitchula.vercel.app/)
 [![GitHub followers](https://img.shields.io/github/followers/chyk2468?label=Followers&style=social)](https://github.com/chyk2468)
 [![GitHub Stars](https://img.shields.io/github/stars/chyk2468?affiliations=OWNER&style=social&label=Stars)](https://github.com/chyk2468)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-00FFD1?style=social&logo=vercel)](https://yashwant-kumar-chitchula.vercel.app/)
 
 </div>
 
@@ -29,7 +30,7 @@
 
 ## 🧬 Who am I?
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```python
 class YashwantKumar:
@@ -51,8 +52,7 @@ class YashwantKumar:
                "works, you don't deserve to deploy it."
 ```
 
-<br/>
-<br/>
+<br clear="right"/>
 
 <!-- ══════════════════ SOCIAL LINKS ══════════════════ -->
 
@@ -61,6 +61,7 @@ class YashwantKumar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yashwant%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwant-kumar-chitchula-117131290)
 [![Gmail](https://img.shields.io/badge/Gmail-chyk2468%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chyk2468@gmail.com)
 [![Bluesky](https://img.shields.io/badge/Bluesky-chyk2468-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/chyk2468.bsky.social)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00FFD1?style=for-the-badge&logo=vercel&logoColor=black)](https://yashwant-kumar-chitchula.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-chyk2468-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chyk2468)
 
 </div>
@@ -307,7 +308,7 @@ mindmap
 
 ```text
 ╔═══════════════════════════════════════════════════════════════════╗
-║  DEVELOPER MANIFESTO — chyk2468  v3.0.2026                       ║
+║  DEVELOPER MANIFESTO — chyk2468  v3.1.2026                       ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║                                                                   ║
 ║  I.   Build AI you can explain. Fully. Always.                   ║
