@@ -143,15 +143,24 @@ A separate retrieval-augmented file search project.
 
 </details>
 
-## 04 / Contribution Snake: Neon Edition
+## 04 / Tech stack radar
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/tech-stack-radar.svg" width="100%" alt="Animated technology radar connecting AI and machine learning, LLM systems, backend engineering, databases, and infrastructure tools" />
+</p>
 
-<img src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/neon-snake.svg" width="100%" alt="Animated neon cyan and violet GitHub contribution snake" />
+<details>
+<summary><strong>Open the text version of my stack</strong></summary>
 
-<sub>Every commit leaves a trace. Keep building.</sub>
+**AI / Machine Learning:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, NumPy, Pandas.
 
-</div>
+**LLM Systems:** RAG, embeddings, semantic search, local models, Ollama, AI agents.
+
+**Backend / Web:** JavaScript, Node.js, React, Flask, FastAPI, Streamlit, HTML, CSS.
+
+**Data / Infrastructure:** SQL, MySQL, MongoDB, Docker, Linux, Git, AWS, Jupyter.
+
+</details>
 
 ## 05 / GitHub telemetry
 
@@ -159,6 +168,16 @@ A separate retrieval-augmented file search project.
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&hide_border=true&theme=github_dark&rank_icon=percentile" alt="GitHub statistics" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=chyk2468&hide_border=true&theme=github-dark-blue" alt="Contribution streak" />
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+</div>
+
+## 06 / Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/github-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/ocean.svg" width="100%" />
+  </picture>
 </div>
 
 ---
