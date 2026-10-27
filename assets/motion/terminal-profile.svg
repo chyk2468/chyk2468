@@ -23,7 +23,7 @@
 <g clip-path="url(#typing1)"><text x="57" y="144" fill="#D7D0C2" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15"> Building CogniOS, a local-first AI workspace</text></g>
 <g clip-path="url(#typing2)"><text x="57" y="144" fill="#D7D0C2" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15"> Engineering RAG with grounded retrieval</text></g>
 <g clip-path="url(#typing3)"><text x="57" y="144" fill="#D7D0C2" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15"> Designing AI agents that take useful actions</text></g>
-<rect x="56" y="153" width="8" height="18" rx="1.5" fill="#F16A3A"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+<rect x="57" y="151" width="7" height="17" rx="1.5" fill="#F16A3A"><animate attributeName="x" values="57;57;487;487;57;57;57;417;417;57;57;467;467;57" keyTimes="0;0.05;0.20;0.28;0.33;0.36;0.39;0.54;0.60;0.64;0.68;0.86;0.92;1" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
 <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" font-weight="600">
   <rect x="36" y="183" width="98" height="27" rx="6" fill="#2A3023" stroke="#805638"/><text x="85" y="200" text-anchor="middle" fill="#F3A16D">AI SYSTEMS</text>
   <rect x="143" y="183" width="65" height="27" rx="6" fill="#26291E" stroke="#586345"/><text x="175.5" y="200" text-anchor="middle" fill="#E5BE67">RAG</text>
