@@ -4,12 +4,12 @@
 
 <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/terminal-profile.svg" width="100%" alt="Animated developer terminal rotating through CogniOS, RAG, and AI agent focus areas" />
 
-<p>
-  <a href="https://yashwant-kumar-chitchula.vercel.app/">Portfolio ↗</a> ·
-  <a href="https://linkedin.com/in/yashwant-kumar-chitchula-117131290">LinkedIn ↗</a> ·
-  <a href="mailto:chyk2468@gmail.com">Email ↗</a> ·
-  <a href="https://bsky.app/profile/chyk2468.bsky.social">Bluesky ↗</a> ·
-  <a href="https://github.com/chyk2468">GitHub ↗</a>
+<p align="center">
+  <a href="https://yashwant-kumar-chitchula.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Open-A5C6E7?style=flat-square&logo=vercel&logoColor=E3E4E5&labelColor=25291D" alt="Portfolio" height="25" /></a>&nbsp;
+  <a href="https://linkedin.com/in/yashwant-kumar-chitchula-117131290"><img src="https://img.shields.io/badge/LINKEDIN-Connect-6C7C3E?style=flat-square&logo=linkedin&logoColor=E3E4E5&labelColor=25291D" alt="LinkedIn" height="25" /></a>&nbsp;
+  <a href="mailto:chyk2468@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-818D42?style=flat-square&logo=gmail&logoColor=E3E4E5&labelColor=25291D" alt="Email" height="25" /></a>&nbsp;
+  <a href="https://bsky.app/profile/chyk2468.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-Follow-A5C6E7?style=flat-square&logo=bluesky&logoColor=E3E4E5&labelColor=25291D" alt="Bluesky" height="25" /></a>&nbsp;
+  <a href="https://github.com/chyk2468"><img src="https://img.shields.io/badge/GITHUB-Explore-373A26?style=flat-square&logo=github&logoColor=E3E4E5&labelColor=25291D" alt="GitHub" height="25" /></a>
 </p>
 
 <sub>B.Tech CSE (AI & ML) · Software Engineering · Local-first AI</sub>
