@@ -169,7 +169,7 @@ The flagship section stays focused. The rest of the public project shelf is here
 ## 03 / Tools in my kit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python, pytorch,tensorflow,opencv,js,nodejs,react,flask,fastapi,html,css,mysql,mongodb,docker,linux,git,aws&perline=9" alt="Technology stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,nodejs,react,flask,fastapi,html,css,mysql,mongodb,docker,linux,git,aws&perline=9" alt="Technology stack" />
 </p>
 
 **AI & Data** · Python · PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV · NumPy · Pandas  
