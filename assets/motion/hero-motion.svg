@@ -2,34 +2,34 @@
 <title id="title">Yashwant Kumar | AI Systems Builder</title>
 <desc id="desc">Animated neural systems banner with moving particles, network paths, orbital rings, and project themes.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11130F"/><stop offset=".58" stop-color="#191B15"/><stop offset="1" stop-color="#24261C"/></linearGradient>
-  <linearGradient id="cyanViolet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F16A3A"/><stop offset="1" stop-color="#A5B58A"/></linearGradient>
-  <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F4EBDD"/><stop offset=".62" stop-color="#E5BE67"/><stop offset="1" stop-color="#A5B58A"/></linearGradient>
-  <radialGradient id="aura"><stop stop-color="#596B43" stop-opacity=".28"/><stop offset="1" stop-color="#596B43" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#A5A18D" stroke-opacity=".09" stroke-width="1"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset=".58" stop-color="#171B16"/><stop offset="1" stop-color="#25291D"/></linearGradient>
+  <linearGradient id="cyanViolet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A5C6E7"/><stop offset="1" stop-color="#818D42"/></linearGradient>
+  <linearGradient id="headline" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E3E4E5"/><stop offset=".62" stop-color="#818D42"/><stop offset="1" stop-color="#818D42"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#6C7C3E" stop-opacity=".28"/><stop offset="1" stop-color="#6C7C3E" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#5E644D" stroke-opacity=".09" stroke-width="1"/></pattern>
   <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
 <rect width="1200" height="390" rx="24" fill="url(#grid)"/>
 <ellipse cx="960" cy="185" rx="300" ry="270" fill="url(#aura)"/>
-<path d="M28 28H1172M28 362H1172" stroke="#414437" stroke-width="1"/>
-<rect x="54" y="47" width="9" height="9" rx="3" fill="#F16A3A"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></rect>
-<text x="78" y="56" fill="#F3A16D" font-family="monospace" font-size="13" letter-spacing="3">INDEPENDENT BUILDER / INDIA</text>
+<path d="M28 28H1172M28 362H1172" stroke="#5E644D" stroke-width="1"/>
+<rect x="54" y="47" width="9" height="9" rx="3" fill="#A5C6E7"><animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></rect>
+<text x="78" y="56" fill="#A5C6E7" font-family="monospace" font-size="13" letter-spacing="3">INDEPENDENT BUILDER / INDIA</text>
 <text x="54" y="128" fill="url(#headline)" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.3">YASHWANT KUMAR</text>
-<text x="57" y="164" fill="#D7D0C2" font-family="Arial, Helvetica, sans-serif" font-size="19">Building AI that does more than generate text.</text>
+<text x="57" y="164" fill="#E3E4E5" font-family="Arial, Helvetica, sans-serif" font-size="19">Building AI that does more than generate text.</text>
 <g font-family="monospace" font-size="12" font-weight="700">
-  <rect x="56" y="194" width="110" height="33" rx="7" fill="#2A3023" stroke="#805638"/><text x="111" y="215" text-anchor="middle" fill="#FFC18B">LOCAL AI</text>
-  <rect x="176" y="194" width="78" height="33" rx="7" fill="#26291E" stroke="#586345"/><text x="215" y="215" text-anchor="middle" fill="#E5BE67">RAG</text>
-  <rect x="264" y="194" width="104" height="33" rx="7" fill="#26291E" stroke="#586345"/><text x="316" y="215" text-anchor="middle" fill="#E5BE67">AI AGENTS</text>
-  <rect x="378" y="194" width="80" height="33" rx="7" fill="#35281E" stroke="#9C5C3A"/><text x="418" y="215" text-anchor="middle" fill="#F3C68E">XAI</text>
+  <rect x="56" y="194" width="110" height="33" rx="7" fill="#373A26" stroke="#6C7C3E"/><text x="111" y="215" text-anchor="middle" fill="#A5C6E7">LOCAL AI</text>
+  <rect x="176" y="194" width="78" height="33" rx="7" fill="#25291D" stroke="#6C7C3E"/><text x="215" y="215" text-anchor="middle" fill="#818D42">RAG</text>
+  <rect x="264" y="194" width="104" height="33" rx="7" fill="#25291D" stroke="#6C7C3E"/><text x="316" y="215" text-anchor="middle" fill="#818D42">AI AGENTS</text>
+  <rect x="378" y="194" width="80" height="33" rx="7" fill="#373A26" stroke="#6C7C3E"/><text x="418" y="215" text-anchor="middle" fill="#97B3CF">XAI</text>
 </g>
-<text x="56" y="267" fill="#827D67" font-family="monospace" font-size="12" letter-spacing="1.5">DESIGN / BUILD / TEST / SHIP</text>
+<text x="56" y="267" fill="#9D917A" font-family="monospace" font-size="12" letter-spacing="1.5">DESIGN / BUILD / TEST / SHIP</text>
 <g fill="none" stroke="url(#cyanViolet)" stroke-width="1.4" stroke-dasharray="8 11" opacity=".8">
   <path d="M610 92L720 145L805 90L930 145L1048 84L1155 123"><animate attributeName="stroke-dashoffset" from="0" to="-76" dur="5s" repeatCount="indefinite"/></path>
   <path d="M612 270L730 215L827 270L925 210L1040 267L1154 218"><animate attributeName="stroke-dashoffset" from="0" to="76" dur="6s" repeatCount="indefinite"/></path>
   <path d="M720 145L730 215M805 90L827 270M930 145L925 210M1048 84L1040 267"/>
 </g>
-<g fill="#F16A3A" filter="url(#glow)">
+<g fill="#A5C6E7" filter="url(#glow)">
   <circle cx="610" cy="92" r="3"><animate attributeName="r" values="2;5;2" dur="2.7s" repeatCount="indefinite"/></circle>
   <circle cx="720" cy="145" r="4"><animate attributeName="r" values="3;6;3" dur="2.1s" repeatCount="indefinite"/></circle>
   <circle cx="805" cy="90" r="4"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle>
@@ -42,16 +42,16 @@
   <circle cx="1040" cy="267" r="4"><animate attributeName="r" values="3;6;3" dur="1.9s" repeatCount="indefinite"/></circle>
 </g>
 <g transform="translate(920 181)">
-  <circle r="118" fill="none" stroke="#45483A" stroke-width="1.2"/>
-  <circle r="91" fill="none" stroke="#646B53" stroke-width="1.2" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite"/></circle>
-  <ellipse rx="103" ry="38" fill="none" stroke="#A5B58A" stroke-opacity=".72" stroke-width="1.4" transform="rotate(-38)"><animateTransform attributeName="transform" additive="sum" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/></ellipse>
-  <ellipse rx="103" ry="38" fill="none" stroke="#F16A3A" stroke-opacity=".66" stroke-width="1.4" transform="rotate(56)"><animateTransform attributeName="transform" additive="sum" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/></ellipse>
-  <circle r="48" fill="#22271D" stroke="url(#cyanViolet)" stroke-width="2" filter="url(#glow)"/>
-  <circle r="35" fill="none" stroke="#F16A3A" stroke-opacity=".55" stroke-width="1"><animate attributeName="r" values="31;38;31" dur="4s" repeatCount="indefinite"/></circle>
-  <text x="0" y="6" text-anchor="middle" fill="#FFF4E3" font-family="monospace" font-size="18" font-weight="700">AI</text>
-  <circle cx="-86" cy="-45" r="5" fill="#F16A3A"><animateMotion dur="9s" repeatCount="indefinite" path="M0 0 C90 -80 170 5 95 74 S-50 68 0 0"/></circle>
-  <circle cx="65" cy="55" r="4" fill="#E5BE67"><animateMotion dur="7s" repeatCount="indefinite" path="M0 0 C-95 -70 -145 20 -55 85 S90 65 0 0"/></circle>
-  <circle cx="0" cy="-91" r="3.5" fill="#F4EBDD"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle r="118" fill="none" stroke="#5E644D" stroke-width="1.2"/>
+  <circle r="91" fill="none" stroke="#5E644D" stroke-width="1.2" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite"/></circle>
+  <ellipse rx="103" ry="38" fill="none" stroke="#818D42" stroke-opacity=".72" stroke-width="1.4" transform="rotate(-38)"><animateTransform attributeName="transform" additive="sum" type="rotate" from="0" to="360" dur="32s" repeatCount="indefinite"/></ellipse>
+  <ellipse rx="103" ry="38" fill="none" stroke="#A5C6E7" stroke-opacity=".66" stroke-width="1.4" transform="rotate(56)"><animateTransform attributeName="transform" additive="sum" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/></ellipse>
+  <circle r="48" fill="#25291D" stroke="url(#cyanViolet)" stroke-width="2" filter="url(#glow)"/>
+  <circle r="35" fill="none" stroke="#A5C6E7" stroke-opacity=".55" stroke-width="1"><animate attributeName="r" values="31;38;31" dur="4s" repeatCount="indefinite"/></circle>
+  <text x="0" y="6" text-anchor="middle" fill="#E3E4E5" font-family="monospace" font-size="18" font-weight="700">AI</text>
+  <circle cx="-86" cy="-45" r="5" fill="#A5C6E7"><animateMotion dur="9s" repeatCount="indefinite" path="M0 0 C90 -80 170 5 95 74 S-50 68 0 0"/></circle>
+  <circle cx="65" cy="55" r="4" fill="#818D42"><animateMotion dur="7s" repeatCount="indefinite" path="M0 0 C-95 -70 -145 20 -55 85 S90 65 0 0"/></circle>
+  <circle cx="0" cy="-91" r="3.5" fill="#E3E4E5"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
 </g>
-<text x="1145" y="328" text-anchor="end" fill="#827D67" font-family="monospace" font-size="10" letter-spacing="2">SYSTEMS OVER HYPE</text>
+<text x="1145" y="328" text-anchor="end" fill="#9D917A" font-family="monospace" font-size="10" letter-spacing="2">SYSTEMS OVER HYPE</text>
 </svg>
