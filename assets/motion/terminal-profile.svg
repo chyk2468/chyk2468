@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="235" viewBox="0 0 1100 235" role="img" aria-labelledby="title desc">
+<title id="title">Yashwant Kumar's animated developer terminal</title>
+<desc id="desc">A dark terminal card with a live indicator, rotating typewriter focus messages for CogniOS, RAG systems, and AI agents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080D16"/><stop offset=".6" stop-color="#0C1727"/><stop offset="1" stop-color="#11182C"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5BF1D1"/><stop offset="1" stop-color="#9584FF"/></linearGradient>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="typing1"><rect x="80" y="108" width="0" height="31"><animate attributeName="width" values="0;0;520;520;0;0" keyTimes="0;0.05;0.20;0.28;0.33;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="typing2"><rect x="80" y="108" width="0" height="31"><animate attributeName="width" values="0;0;0;520;520;0;0" keyTimes="0;0.36;0.39;0.54;0.60;0.64;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="typing3"><rect x="80" y="108" width="0" height="31"><animate attributeName="width" values="0;0;0;520;520;0;0" keyTimes="0;0.68;0.71;0.86;0.92;0.96;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="1100" height="235" rx="18" fill="url(#bg)" stroke="#253852"/>
+<path d="M1 50H1099" stroke="#253852"/>
+<g>
+  <circle cx="25" cy="25" r="5.5" fill="#FF625B"/><circle cx="44" cy="25" r="5.5" fill="#FFBE4F"/><circle cx="63" cy="25" r="5.5" fill="#42D787"/>
+  <text x="88" y="29" fill="#9EB1CB" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">yashwant@ai-lab: ~</text>
+  <text x="1070" y="29" text-anchor="end" fill="#6882A5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" letter-spacing="1.5">SESSION / ACTIVE</text>
+  <circle cx="903" cy="25" r="4" fill="#55F3D2" filter="url(#glow)"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+<text x="36" y="79" fill="#66E6D0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">$ profile --now</text>
+<text x="36" y="111" fill="#ECF3FF" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Building useful AI, not just demos.</text>
+<text x="36" y="144" fill="#61EBD3" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">$</text>
+<g clip-path="url(#typing1)"><text x="57" y="144" fill="#D7E4F5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15"> Building CogniOS, a local-first AI workspace</text></g>
+<g clip-path="url(#typing2)"><text x="57" y="144" fill="#D7E4F5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15"> Engineering RAG with grounded retrieval</text></g>
+<g clip-path="url(#typing3)"><text x="57" y="144" fill="#D7E4F5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15"> Designing AI agents that take useful actions</text></g>
+<rect x="56" y="153" width="8" height="18" rx="1.5" fill="#59F0D1"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" font-weight="600">
+  <rect x="36" y="183" width="98" height="27" rx="6" fill="#102A32" stroke="#286E67"/><text x="85" y="200" text-anchor="middle" fill="#7AEDD9">AI SYSTEMS</text>
+  <rect x="143" y="183" width="65" height="27" rx="6" fill="#15223B" stroke="#3B5286"/><text x="175.5" y="200" text-anchor="middle" fill="#B7C7FF">RAG</text>
+  <rect x="217" y="183" width="91" height="27" rx="6" fill="#15223B" stroke="#3B5286"/><text x="262.5" y="200" text-anchor="middle" fill="#B7C7FF">AI AGENTS</text>
+  <rect x="317" y="183" width="77" height="27" rx="6" fill="#201B3B" stroke="#5E4BA0"/><text x="355.5" y="200" text-anchor="middle" fill="#C9B9FF">LOCAL AI</text>
+</g>
+<g transform="translate(1014 137)">
+  <circle r="43" fill="none" stroke="#263E61" stroke-width="1.2"/>
+  <circle r="31" fill="none" stroke="#45668C" stroke-dasharray="3 6"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></circle>
+  <circle r="17" fill="#102B38" stroke="url(#accent)" stroke-width="1.6"/>
+  <text x="0" y="4" text-anchor="middle" fill="#EDFFFB" font-family="monospace" font-size="11" font-weight="700">AI</text>
+  <circle cx="-31" cy="-11" r="3.4" fill="#55F3D2"><animateMotion dur="6s" repeatCount="indefinite" path="M0 0 C42 -35 55 24 0 22 S-20 -8 0 0"/></circle>
+  <circle cx="22" cy="25" r="3.1" fill="#9C8BFF"><animate attributeName="r" values="2;4;2" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+<text x="1068" y="218" text-anchor="end" fill="#5D7393" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" letter-spacing="1">TYPE / BUILD / SHIP</text>
+</svg>
