@@ -6,7 +6,7 @@
   <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F16A3A"/><stop offset="1" stop-color="#A5B58A"/></linearGradient>
   <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F16A3A"/><stop offset="1" stop-color="#A5B58A"/></linearGradient>
   <radialGradient id="core"><stop stop-color="#2E3727"/><stop offset="1" stop-color="#191B15"/></radialGradient>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#7894BF" stroke-opacity=".065" stroke-width="1"/></pattern>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#A5A18D" stroke-opacity=".065" stroke-width="1"/></pattern>
   <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   <style>
     .panel{fill:#1B2017;stroke:#414437;stroke-width:1}
@@ -52,7 +52,7 @@
   <path d="M321 293 C349 307 347 320 373 320"/>
   <path d="M306 326 C347 370 343 426 373 426"/>
 </g>
-<g fill="#67EBD3" filter="url(#glow)">
+<g fill="#F16A3A" filter="url(#glow)">
   <circle r="3.5"><animateMotion dur="3.8s" repeatCount="indefinite" path="M314 226 C343 205 344 113 373 113"/></circle>
   <circle r="3.5"><animateMotion dur="3.3s" begin="-1.1s" repeatCount="indefinite" path="M321 262 C349 244 346 213 373 213"/></circle>
   <circle r="3.5"><animateMotion dur="4.2s" begin="-1.6s" repeatCount="indefinite" path="M321 293 C349 307 347 320 373 320"/></circle>
