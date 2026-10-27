@@ -170,16 +170,6 @@ A separate retrieval-augmented file search project.
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
 </div>
 
-## 06 / Contribution snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/github-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/ocean.svg" width="100%" />
-  </picture>
-</div>
-
 ---
 
 <div align="center">
