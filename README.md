@@ -146,8 +146,11 @@ A separate retrieval-augmented file search project.
 
 </details>
 
-## 04 / Tech stack radar
+### Build loop / from problem to shipped system
 
+![Engineering build loop](https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/build-workflow.svg)
+
+## 04 / Tech stack radar
 <p align="center">
   <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/tech-stack-radar.svg" width="100%" alt="Animated technology radar connecting AI and machine learning, LLM systems, backend engineering, databases, and infrastructure tools" />
 </p>
