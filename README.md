@@ -147,7 +147,7 @@ A separate retrieval-augmented file search project.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/dist/neon-snake.svg" width="100%" alt="Animated neon cyan and violet GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/chyk2468/chyk2468/output/neon-snake.svg" width="100%" alt="Animated neon cyan and violet GitHub contribution snake" />
 
 <sub>Every commit leaves a trace. Keep building.</sub>
 
