@@ -2,18 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/hero-motion.svg" width="100%" alt="Animated AI systems banner for Yashwant Kumar" />
 
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://yashwant-kumar-chitchula.vercel.app/)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashwant-kumar-chitchula-117131290)
-[![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chyk2468@gmail.com)
-[![BLUESKY](https://img.shields.io/badge/BLUESKY-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/chyk2468.bsky.social)
-[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chyk2468)
+<img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/terminal-profile.svg" width="100%" alt="Animated developer terminal rotating through CogniOS, RAG, and AI agent focus areas" />
+
+<p>
+  <a href="https://yashwant-kumar-chitchula.vercel.app/">Portfolio ↗</a> ·
+  <a href="https://linkedin.com/in/yashwant-kumar-chitchula-117131290">LinkedIn ↗</a> ·
+  <a href="mailto:chyk2468@gmail.com">Email ↗</a> ·
+  <a href="https://bsky.app/profile/chyk2468.bsky.social">Bluesky ↗</a> ·
+  <a href="https://github.com/chyk2468">GitHub ↗</a>
+</p>
+
+<sub>B.Tech CSE (AI & ML) · Software Engineering · Local-first AI</sub>
 
 </div>
-
-<p align="center">
-  <b>B.Tech CSE (AI & ML)</b> · Building useful AI, not just demos.<br/>
-  <sub>Local-first systems · RAG & knowledge · AI agents · Computer vision · Explainable AI</sub>
-</p>
 
 ---
 
