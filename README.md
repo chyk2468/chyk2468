@@ -4,13 +4,15 @@
 
 <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/terminal-profile.svg" width="100%" alt="Animated developer terminal rotating through CogniOS, RAG, and AI agent focus areas" />
 
-<p align="center">
-  <a href="https://yashwant-kumar-chitchula.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-A5C6E7?style=for-the-badge&logo=vercel&logoColor=E3E4E5&labelColor=25291D" alt="Visit Portfolio" /></a>&nbsp;
-  <a href="https://linkedin.com/in/yashwant-kumar-chitchula-117131290"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-6C7C3E?style=for-the-badge&logo=linkedin&logoColor=E3E4E5&labelColor=25291D" alt="Connect on LinkedIn" /></a>&nbsp;
-  <a href="mailto:chyk2468@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-818D42?style=for-the-badge&logo=gmail&logoColor=E3E4E5&labelColor=25291D" alt="Send Email" /></a><br/>
-  <a href="https://bsky.app/profile/chyk2468.bsky.social"><img src="https://img.shields.io/badge/BLUESKY-FOLLOW-A5C6E7?style=for-the-badge&logo=bluesky&logoColor=E3E4E5&labelColor=25291D" alt="Follow on Bluesky" /></a>&nbsp;
-  <a href="https://github.com/chyk2468"><img src="https://img.shields.io/badge/GITHUB-EXPLORE-373A26?style=for-the-badge&logo=github&logoColor=E3E4E5&labelColor=25291D" alt="Explore GitHub" /></a>
-</p>
+<div align="center">
+
+<a href="https://yashwant-kumar-chitchula.vercel.app/"><img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/contact/portfolio.svg" width="200" alt="Explore my portfolio" /></a>&nbsp;
+<a href="https://linkedin.com/in/yashwant-kumar-chitchula-117131290"><img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/contact/linkedin.svg" width="200" alt="Connect on LinkedIn" /></a>&nbsp;
+<a href="mailto:chyk2468@gmail.com"><img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/contact/email.svg" width="200" alt="Send me an email" /></a><br/>
+<a href="https://bsky.app/profile/chyk2468.bsky.social"><img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/contact/bluesky.svg" width="200" alt="Follow me on Bluesky" /></a>&nbsp;
+<a href="https://github.com/chyk2468"><img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/contact/github.svg" width="200" alt="Explore my GitHub projects" /></a>
+
+</div>
 
 <sub>B.Tech CSE (AI & ML) · Software Engineering · Local-first AI</sub>
 
