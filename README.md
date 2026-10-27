@@ -143,16 +143,24 @@ A separate retrieval-augmented file search project.
 
 </details>
 
-## 04 / Tools in my kit
+## 04 / Tech stack radar
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,nodejs,react,flask,fastapi,html,css,mysql,mongodb,docker,linux,git,aws&perline=9" alt="Technology stack" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/tech-stack-radar.svg" width="100%" alt="Animated technology radar connecting AI and machine learning, LLM systems, backend engineering, databases, and infrastructure tools" />
 </p>
 
-**AI & Data** · Python · PyTorch · TensorFlow · scikit-learn · Hugging Face · OpenCV · NumPy · Pandas  
-**LLM systems** · RAG · embeddings · semantic search · local models · AI agents  
-**Engineering** · JavaScript · Node.js · React · Flask · FastAPI · Streamlit · SQL  
-**Tools** · Git · Docker · Linux · AWS · MySQL · MongoDB · Jupyter
+<details>
+<summary><strong>Open the text version of my stack</strong></summary>
+
+**AI / Machine Learning:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, NumPy, Pandas.
+
+**LLM Systems:** RAG, embeddings, semantic search, local models, Ollama, AI agents.
+
+**Backend / Web:** JavaScript, Node.js, React, Flask, FastAPI, Streamlit, HTML, CSS.
+
+**Data / Infrastructure:** SQL, MySQL, MongoDB, Docker, Linux, Git, AWS, Jupyter.
+
+</details>
 
 ## 05 / GitHub telemetry
 
