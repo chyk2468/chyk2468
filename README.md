@@ -148,6 +148,9 @@ A separate retrieval-augmented file search project.
 
 ### Build loop / from problem to shipped system
 
+[Open the interactive build loop](architecture.html)
+
+
 ![Engineering build loop](https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/build-workflow.svg)
 
 ## 04 / Tech stack radar
