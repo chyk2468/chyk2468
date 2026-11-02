@@ -14,36 +14,34 @@
 
 </div>
 
-<sub>B.Tech CSE (AI & ML) · Software Engineering · Local-first AI</sub>
+<sub>B.Tech CSE (AI & ML) · Software Engineering · Local-first AI Systems</sub>
 
 </div>
 
 ---
 
-## 01 / Systems in motion
+## 01 / Flagship Systems in Motion
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/chyk2468/CogniOS">
-  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/cognios.svg" width="100%" alt="Animated CogniOS local AI system diagram"/>
+  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/cognios.svg" width="100%" alt="CogniOS local AI system diagram"/>
 </a>
 
-**[CogniOS](https://github.com/chyk2468/CogniOS)**
-
-Local-first AI workspace connecting files, desktop tools, voice, local models, and autonomous workflows.
+### 🧠 [CogniOS](https://github.com/chyk2468/CogniOS)
+Local-first AI desktop operating system connecting files, native OS tools, local models via Ollama, and autonomous multi-agent workflows.
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/chyk2468/Local-Offline-RAG-System">
-  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/rag-pipeline.svg" width="100%" alt="Animated RAG pipeline from document ingestion to grounded answers"/>
+  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/rag-pipeline.svg" width="100%" alt="Animated RAG pipeline diagram"/>
 </a>
 
-**[Local Offline RAG](https://github.com/chyk2468/Local-Offline-RAG-System)**
-
-Private document retrieval and question answering designed to run locally.
+### 📚 [Local Offline RAG System](https://github.com/chyk2468/RAG-File-Search)
+Private, air-gapped document intelligence and semantic search powered by local vector embeddings and local LLMs.
 
 </td>
 </tr>
@@ -51,140 +49,89 @@ Private document retrieval and question answering designed to run locally.
 <td width="50%" valign="top">
 
 <a href="https://github.com/chyk2468/Agentic-AI-JIRA">
-  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/agent-workflow.svg" width="100%" alt="Animated agent workflow from request through planning, approval, and action"/>
+  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/agent-workflow.svg" width="100%" alt="Agentic AI for Jira workflow diagram"/>
 </a>
 
-**[Agentic AI for Jira](https://github.com/chyk2468/Agentic-AI-JIRA)**
-
-Natural-language Jira workflows with retrieval and a human approval checkpoint.
+### ⚡ [Agentic AI for Jira](https://github.com/chyk2468/Agentic-AI-JIRA)
+Natural-language Jira orchestration with Chroma issue retrieval, structured JSON action planning, and human-in-the-loop approval.
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/chyk2468/Veridex">
-  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/veridex.svg" width="100%" alt="Animated Veridex fact extraction, normalization, comparison, and evidence workflow"/>
+  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/veridex.svg" width="100%" alt="Veridex fact extraction and comparison diagram"/>
 </a>
 
-**[Veridex](https://github.com/chyk2468/Veridex)**
-
-Explainable cross-document fact intelligence with page-level evidence and deterministic comparisons.
+### 🔍 [Veridex](https://github.com/chyk2468/Veridex)
+Explainable cross-document fact intelligence platform with page-level evidence citation and deterministic claim contradiction detection.
 
 </td>
 </tr>
 </table>
 
-## 02 / More flagship builds
+---
+
+## 02 / Specialized Engineering Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ❤️ [ECG PatchTST + XAI](https://github.com/chyk2468/ecg-patchtst-xai)
-
-ECG classification with PatchTST and explainability methods including attention maps, Grad-CAM, SHAP, and Integrated Gradients.
+### 🫀 [ECG PatchTST + XAI](https://github.com/chyk2468/ecg-patchtst-xai)
+Time-series Patch Transformer for 12-lead ECG arrhythmia classification featuring multi-method explainability (SHAP, Grad-CAM, Integrated Gradients).
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [Semantic Search Engine](https://github.com/chyk2468/Semantic-Search-Engine)
-
-Semantic retrieval focused on finding relevant information by meaning and context.
+### 🏢 [Homely](https://github.com/chyk2468/Homely)
+Intelligent residential operations and facility maintenance platform with FastAPI, React, SQLite/PostgreSQL, and role-based access.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ✉️ [MailMind AI](https://github.com/chyk2468/MailMind-AI)
-
-AI-assisted email reply generation with a focus on useful, context-aware drafts.
+### 🪖 [Smart Industrial Helmet](https://github.com/chyk2468/Smart-Helmet-for-industrial-safety-monitoring-using-esp32-and-Blynk.)
+IoT industrial worker safety helmet utilizing ESP32-S3, MPU9250 motion/fall detection, MQ-2 combustible gas sensor, and real-time Blynk telemetry.
 
 </td>
 <td width="50%" valign="top">
 
-### 📂 [RAG File Search](https://github.com/chyk2468/RAG-File-Search)
+### ✉️ [MailMind AI](https://github.com/chyk2468/MailMind-AI)
+Tone-controlled email reply generation platform grounded in local Chroma example embeddings and Google Gemini 2.0 Flash.
 
-A separate retrieval-augmented file search project.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 [AI Traffic Monitor](https://github.com/chyk2468/Traffic-Monitor)
+Computer vision traffic surveillance pipeline with YOLOv8, DeepSORT multi-object tracking, and multi-lane flow density analytics.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Semantic Search Engine](https://github.com/chyk2468/Semantic-Search-Engine)
+High-performance dense vector retrieval system with sentence transformers, FAISS/Chroma indexing, and sub-10ms query latency.
 
 </td>
 </tr>
 </table>
 
-## 03 / The full project shelf
+---
 
-<details>
-<summary><b>Open all other public projects</b> · ML, automation, computer vision, IoT, and web</summary>
+## 03 / Core Competencies & Architecture Focus
 
-| Project | Focus |
-|---|---|
-| [Retrieval-Augmented-Generation-File-Search](https://github.com/chyk2468/Retrieval-Augmented-Generation-File-Search) | RAG / document search |
-| [Google Calendar AI Agent](https://github.com/chyk2468/Google-Calender-AI-Agent) | AI agents / productivity |
-| [Meeting Agentic AI](https://github.com/chyk2468/Meeting-Agentic-AI) | Agentic AI |
-| [Habit Tracker AI](https://github.com/chyk2468/Habit-Tracker-AI) | AI / productivity |
-| [LinkedIn Post Automation](https://github.com/chyk2468/Linkedin-Post-Automation) | Automation |
-| [Fake News Detection](https://github.com/chyk2468/Fake-News-Detection) | NLP / classification |
-| [Fruit & Vegetable Detector](https://github.com/chyk2468/Fruit-Veg-Detector) | Computer vision |
-| [Image Upscaling](https://github.com/chyk2468/Image-Upscaling-py) | Image enhancement |
-| [Real-Time Scene Detector](https://github.com/chyk2468/Real-Time-Scene-Detector) | Computer vision |
-| [Traffic Monitor](https://github.com/chyk2468/Traffic-Monitor) | Traffic monitoring |
-| [CIC-IDS2017 Intrusion Detection](https://github.com/chyk2468/Application-of-the-SMOTETomek-Technique-to-Address-Class-Imbalance-in-the-CIC-IDS2017-Dataset.) | ML / cybersecurity |
-| [Smart Helmet](https://github.com/chyk2468/Smart-Helmet-for-industrial-safety-monitoring-using-esp32-and-Blynk.) | IoT / embedded systems |
-| [Movie Recommender](https://github.com/chyk2468/Movie_Recommender) | Recommendation systems |
-| [House Price Prediction](https://github.com/chyk2468/House-Price-Prediction) | Machine learning |
-| [Deep Learning Project](https://github.com/chyk2468/Deep-Learning-Project) | Deep learning |
-| [AmbitionBox Scraper](https://github.com/chyk2468/AmbitionBox-Companies-Web-Scraper) | Data collection / scraping |
-| [PDF Toolkit](https://github.com/chyk2468/My_love_pdf) | PDF utilities |
-| [ET AI Hackathon](https://github.com/chyk2468/ET-AI-HACKATHON) | AI hackathon |
-| [OpenWorker](https://github.com/chyk2468/openworker) | Desktop AI / agent workflows |
-| [QR Robot Communication](https://github.com/chyk2468/qr-robot-communication) | Robotics / communication |
-| [Google Review APH](https://github.com/chyk2468/googel-review-aph) | Review workflows |
-| [Homely](https://github.com/chyk2468/Homely) | Software project |
-| [Birthday Special Website](https://github.com/chyk2468/Birthday-Special-Website) | Web development |
-| [Basic Calculator](https://github.com/chyk2468/Basic-Calculater) | Application development |
-| [E-commerce Webpage](https://github.com/chyk2468/E-Commers-webpage) | Web development |
-| [Machine Learning Experiments](https://github.com/chyk2468/Machine-learning-ML-) | ML practice |
-
-</details>
-
-### Build loop / from problem to shipped system
-
-[Open the interactive build loop](architecture.html)
-
-
-![Engineering build loop](https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/build-workflow.svg)
-
-## 04 / Tech stack radar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chyk2468/chyk2468/main/assets/motion/tech-stack-radar.svg" width="100%" alt="Animated technology radar connecting AI and machine learning, LLM systems, backend engineering, databases, and infrastructure tools" />
-</p>
-
-<details>
-<summary><strong>Open the text version of my stack</strong></summary>
-
-**AI / Machine Learning:** Python, PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV, NumPy, Pandas.
-
-**LLM Systems:** RAG, embeddings, semantic search, local models, Ollama, AI agents.
-
-**Backend / Web:** JavaScript, Node.js, React, Flask, FastAPI, Streamlit, HTML, CSS.
-
-**Data / Infrastructure:** SQL, MySQL, MongoDB, Docker, Linux, Git, AWS, Jupyter.
-
-</details>
-
-## 05 / GitHub telemetry
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=chyk2468&show_icons=true&hide_border=true&theme=github_dark&rank_icon=percentile" alt="GitHub statistics" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=chyk2468&hide_border=true&theme=github-dark-blue" alt="Contribution streak" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chyk2468&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
-</div>
+```text
+AI & Machine Learning    : Local-First RAG, Multi-Agent Systems, LangChain, PyTorch, Transformers, Computer Vision (YOLO)
+Backend & Cloud Systems  : FastAPI, Python, Node.js/Express, RESTful APIs, SQLite, PostgreSQL, ChromaDB, Docker
+Frontend & Interface    : React, TypeScript, Next.js, Vite, Tailwind CSS, Streamlit
+Hardware & IoT           : ESP32-S3, Arduino C++, I2C/SPI Sensor Interfacing, Blynk IoT Cloud, Optical QR Protocols
+```
 
 ---
 
-<div align="center">
-
-**Less hype. More systems that work.**
-
-<sub>Built by Yashwant Kumar · Chennai, India</sub>
-
-</div>
+<p align="center">
+  <sub>Portfolio maintained with engineering rigor · Open to software engineering & AI systems opportunities</sub><br/>
+  <a href="https://yashwant-kumar-chitchula.vercel.app/"><strong>Visit Interactive Portfolio Website →</strong></a>
+</p>
